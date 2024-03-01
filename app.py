@@ -15,7 +15,7 @@ and summarizing the entire video and providing the important summary in points.
 Please provide the summary of the text given as following format: 
 
 - Topic  Title(Bold)Large size
-- summary with each topics """
+- Detailed summary of each topics """
 
 # To extract Videoid from youtube url
 def extract_video_id(url):
