@@ -1,6 +1,6 @@
 # LectureLoom
 AI-Driven Lecture Note Generator from YouTube Videos
-
+![Demo](https://github.com/Anshidtp/LectureLoom/blob/main/demo.gif)
 ## Technogies Used:
     1. Google Gemini Pro
     2. Youtube Transcipt Api
