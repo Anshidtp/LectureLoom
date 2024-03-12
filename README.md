@@ -1,6 +1,11 @@
 # LectureLoom
 AI-Driven Lecture Note Generator from YouTube Videos
+
 ![Demo](https://github.com/Anshidtp/LectureLoom/blob/main/demo.gif)
+
+##Overview
+LectureLoom is an innovative tool designed to transform YouTube educational videos into concise, accessible written notes. Inspired by the vast potential of educational content on YouTube and the need for efficient learning tools, LectureLoom utilizes AI to analyze and summarize lecture videos, making learning more accessible and efficient for everyone.
+
 ## Technogies Used:
     1. Google Gemini Pro
     2. Youtube Transcipt Api
